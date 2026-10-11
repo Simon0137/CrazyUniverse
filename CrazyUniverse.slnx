@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CrazyUniverse.Core/CrazyUniverse.Core.csproj" />
+  <Project Path="CrazyUniverse.WPF/CrazyUniverse.WPF.csproj" Id="535d3eaf-7348-4f10-946d-93bc0d58acbc" />
+</Solution>
